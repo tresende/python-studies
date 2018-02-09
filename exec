@@ -1,0 +1,3 @@
+python
+from models import *
+perfis = Perfil_Vip.gerar_perfis('perfis.csv')
